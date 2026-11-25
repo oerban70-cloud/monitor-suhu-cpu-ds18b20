@@ -7,7 +7,7 @@ kabel data, dan angkanya tampil di layar OLED — lengkap dengan buzzer
 yang berbunyi begitu suhu menyentuh 75 derajat, supaya kamu sempat
 menyimpan pekerjaanmu sebelum komputer mati mendadak.
 
-Video penjelasan (60 detik): link menyusul setelah upload
+Video penjelasan (60 detik): https://www.youtube.com/shorts/jp8ChuQYnx8
 
 ## Peringatan jujur: yang diukur suhu heatsink, bukan suhu inti CPU
 
